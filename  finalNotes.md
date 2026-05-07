@@ -30,10 +30,10 @@ Relative paths - identifies the location of the directory.
 grep  "word"  file
 
 ## 6. How to redirect output (>, >>, and |)
->
+`>`
 
 ## 7. How to append the output of a command to a file
->>
+`>>`
 
 ## 8. How and when to redirect the output of a command to another (pipes)
 cat file.txt | grep "error"
